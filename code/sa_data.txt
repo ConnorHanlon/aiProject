@@ -1,0 +1,555 @@
+
+SA Search with Neighbor Function: max, Number of Jobs: 6, Number of People: 4
+State: [1, 3, 1, 2, 0, 3]
+Objective Function Evaluation: 2
+Time to complete search: 11.257352828979492
+Total Node count (Total iterations): 71901
+
+SA Search with Neighbor Function: max, Number of Jobs: 7, Number of People: 4
+State: [2, 0, 3, 2, 0, 1, 3]
+Objective Function Evaluation: 1
+Time to complete search: 10.073751449584961
+Total Node count (Total iterations): 71901
+
+SA Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [3, 0, 2, 2, 3, 0, 1, 2]
+Objective Function Evaluation: 1
+Time to complete search: 14.423331499099731
+Total Node count (Total iterations): 71901
+
+SA Search with Neighbor Function: max, Number of Jobs: 9, Number of People: 4
+State: [3, 0, 1, 2, 0, 2, 3, 1, 2]
+Objective Function Evaluation: 1
+Time to complete search: 14.075456142425537
+Total Node count (Total iterations): 71901
+
+SA Search with Neighbor Function: max, Number of Jobs: 10, Number of People: 4
+State: [0, 1, 3, 1, 3, 0, 0, 1, 2, 2]
+Objective Function Evaluation: 2
+Time to complete search: 17.06229567527771
+Total Node count (Total iterations): 71901
+
+SA Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [3, 0, 1, 1, 3, 0, 2, 1]
+Objective Function Evaluation: 1
+Time to complete search: 14.227349519729614
+Total Node count (Total iterations): 71901
+
+SA Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [1, 0, 3, 0, 0, 3, 2, 1]
+Objective Function Evaluation: 1
+Time to complete search: 15.251074314117432
+Total Node count (Total iterations): 71901
+
+SA Search with Neighbor Function: max, Number of Jobs: 7, Number of People: 4
+State: [0, 2, 3, 3, 2, 1, 0]
+Objective Function Evaluation: 1
+Time to complete search: 9.833829879760742
+Total Node count (Total iterations): 71901
+
+SA Search with Neighbor Function: all_comb, Number of Jobs: 7, Number of People: 4
+State: [0, 0, 1, 1, 2, 3, 2]
+Objective Function Evaluation: 1
+Time to complete search: 300.05586981773376
+Total Node count (Total iterations): 1588
+
+Beam Search with Neighbor Function: max, Number of Jobs: 6, Number of People: 4
+State: [3, 1, 1, 2, 3, 0]
+Beam Size: 5
+Objective Function Evaluation: 2
+Time to complete search: 0.001999378204345703
+Total Node count: 17
+
+Beam Search with Neighbor Function: max, Number of Jobs: 6, Number of People: 4
+State: [1, 1, 2, 0, 2, 3]
+Beam Size: 5
+Objective Function Evaluation: 1
+Time to complete search: 0.004998207092285156
+Total Node count: 23
+
+Beam Search with Neighbor Function: max, Number of Jobs: 6, Number of People: 4
+State: [0, 0, 2, 1, 2, 3]
+Beam Size: 5
+Objective Function Evaluation: 1
+Time to complete search: 0.003998279571533203
+Total Node count: 23
+
+Beam Search with Neighbor Function: max, Number of Jobs: 6, Number of People: 4
+State: [1, 1, 2, 0, 2, 3]
+Beam Size: 5
+Objective Function Evaluation: 1
+Time to complete search: 0.00299835205078125
+Total Node count: 22
+
+Beam Search with Neighbor Function: max, Number of Jobs: 6, Number of People: 4
+State: [3, 3, 0, 2, 3, 1]
+Beam Size: 5
+Objective Function Evaluation: 2
+Time to complete search: 0.001999378204345703
+Total Node count: 17
+
+Could not handle Beam Search
+
+----------------------
+
+Beam Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [0, 1, 2, 2, 3, 2, 2, 1]
+Beam Size: 5
+Objective Function Evaluation: 3
+Time to complete search: 0.004998207092285156
+Total Node count: 20
+
+Beam Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [3, 1, 3, 2, 0, 1, 0, 2]
+Beam Size: 10
+Objective Function Evaluation: 1
+Time to complete search: 0.01299595832824707
+Total Node count: 56
+
+Beam Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [1, 0, 0, 1, 3, 2, 3, 2]
+Beam Size: 15
+Objective Function Evaluation: 1
+Time to complete search: 0.013994932174682617
+Total Node count: 56
+
+Beam Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [0, 1, 2, 3, 3, 1, 0, 2]
+Beam Size: 20
+Objective Function Evaluation: 1
+Time to complete search: 0.011989355087280273
+Total Node count: 51
+
+Beam Search with Neighbor Function: max, Number of Jobs: 7, Number of People: 4
+State: [2, 1, 0, 1, 3, 1, 1]
+Beam Size: 5
+Objective Function Evaluation: 13
+Time to complete search: 300.00751662254333
+Total Node count: 1335182
+
+Beam Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [3, 0, 0, 3, 2, 2, 3, 3]
+Beam Size: 25
+Objective Function Evaluation: 12
+Time to complete search: 300.01169991493225
+Total Node count: 1143326
+
+Beam Search with Neighbor Function: max, Number of Jobs: 7, Number of People: 4
+State: [1, 0, 2, 1, 2, 3, 1]
+Beam Size: 5
+Objective Function Evaluation: 1
+Time to complete search: 0.0029993057250976562
+Total Node count: 18
+
+Beam Search with Neighbor Function: max, Number of Jobs: 7, Number of People: 4
+State: [3, 3, 1, 3, 0, 3, 1]
+Beam Size: 5
+Objective Function Evaluation: 13
+Time to complete search: 300.0082747936249
+Total Node count: 1319940
+
+Beam Search with Neighbor Function: all_comb, Number of Jobs: 7, Number of People: 4
+State: [3, 1, 1, 2, 3, 1, 3]
+Beam Size: 5
+Objective Function Evaluation: 14
+Time to complete search: 301.33582973480225
+Total Node count: 1516
+
+Beam Search with Neighbor Function: max, Number of Jobs: 7, Number of People: 4
+State: [1, 2, 2, 3, 1, 1, 1]
+Beam Size: 5
+Objective Function Evaluation: 14
+Time to complete search: 300.0087237358093
+Total Node count: 1358893
+
+Beam Search with Neighbor Function: max, Number of Jobs: 7, Number of People: 4
+State: [2, 2, 0, 1, 3, 1, 0]
+Beam Size: 5
+Objective Function Evaluation: 8
+Time to complete search: 300.0088529586792
+Total Node count: 1371271
+
+Beam Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [2, 1, 0, 3, 1, 2, 0, 3]
+Beam Size: 5
+Objective Function Evaluation: 0
+Time to complete search: 0.002993345260620117
+Total Node count: 12
+
+Beam Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [0, 1, 3, 2, 2, 0, 3, 1]
+Beam Size: 5
+Objective Function Evaluation: 0
+Time to complete search: 0.0019996166229248047
+Total Node count: 14
+
+Beam Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [0, 0, 1, 2, 2, 3, 1, 3]
+Beam Size: 5
+Objective Function Evaluation: 0
+Time to complete search: 0.0029993057250976562
+Total Node count: 12
+
+Beam Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [0, 3, 1, 0, 2, 2, 1, 3]
+Beam Size: 5
+Objective Function Evaluation: 0
+Time to complete search: 0.005987882614135742
+Total Node count: 24
+
+Beam Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [3, 0, 2, 1, 0, 3, 2, 1]
+Beam Size: 5
+Objective Function Evaluation: 0
+Time to complete search: 0.002010822296142578
+Total Node count: 12
+
+-------------------------------------------------------------------------------
+
+Beam Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [2, 3, 2, 3, 1, 1, 0, 0]
+Beam Size: 5
+Objective Function Evaluation: 2
+Time to complete search: 0.001999378204345703
+Total Node count: 13
+
+Beam Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [2, 2, 2, 1, 0, 3, 2, 2]
+Beam Size: 5
+Objective Function Evaluation: 12
+Time to complete search: 10.001762628555298
+Total Node count: 41630
+
+Beam Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [3, 3, 3, 0, 3, 0, 1, 2]
+Beam Size: 5
+Objective Function Evaluation: 9
+Time to complete search: 10.008761405944824
+Total Node count: 40687
+
+Beam Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [0, 0, 3, 1, 0, 3, 2, 2]
+Beam Size: 5
+Objective Function Evaluation: 5
+Time to complete search: 10.009758949279785
+Total Node count: 37173
+
+Beam Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [3, 1, 1, 2, 0, 3, 2, 0]
+Beam Size: 5
+Objective Function Evaluation: 2
+Time to complete search: 0.004998445510864258
+Total Node count: 21
+
+--------------------------
+
+Beam Search with Neighbor Function: max, Number of Jobs: 9, Number of People: 4
+State: [1, 1, 1, 1, 0, 1, 2, 1, 3]
+Beam Size: 5
+Objective Function Evaluation: 16
+Time to complete search: 300.01504826545715
+Total Node count: 970981
+
+Beam Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [2, 3, 1, 0, 0, 2, 1, 3]
+Beam Size: 10
+Objective Function Evaluation: 2
+Time to complete search: 0.003998517990112305
+Total Node count: 20
+
+Beam Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [2, 3, 1, 2, 1, 0, 0, 3]
+Beam Size: 10
+Objective Function Evaluation: 1
+Time to complete search: 0.013995647430419922
+Total Node count: 53
+
+Beam Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [1, 3, 1, 2, 0, 2, 0, 3]
+Beam Size: 10
+Objective Function Evaluation: 1
+Time to complete search: 0.011996030807495117
+Total Node count: 48
+
+Beam Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [3, 2, 1, 1, 0, 0, 3, 2]
+Beam Size: 15
+Objective Function Evaluation: 3
+Time to complete search: 0.004998445510864258
+Total Node count: 25
+
+Beam Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [2, 0, 1, 1, 3, 2, 3, 0]
+Beam Size: 15
+Objective Function Evaluation: 1
+Time to complete search: 0.007997274398803711
+Total Node count: 29
+
+Beam Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [3, 2, 3, 1, 1, 0, 0, 2]
+Beam Size: 15
+Objective Function Evaluation: 1
+Time to complete search: 0.01899433135986328
+Total Node count: 73
+
+Beam Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [3, 2, 1, 1, 3, 0, 0, 2]
+Beam Size: 20
+Objective Function Evaluation: 1
+Time to complete search: 0.0049974918365478516
+Total Node count: 25
+
+Beam Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [1, 2, 3, 1, 0, 3, 0, 2]
+Beam Size: 20
+Objective Function Evaluation: 1
+Time to complete search: 0.007997751235961914
+Total Node count: 41
+
+Beam Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [3, 0, 1, 1, 3, 2, 2, 0]
+Beam Size: 20
+Objective Function Evaluation: 1
+Time to complete search: 0.0069980621337890625
+Total Node count: 34
+
+Beam Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [0, 3, 1, 0, 3, 1, 3, 2]
+Beam Size: 25
+Objective Function Evaluation: 2
+Time to complete search: 0.005999565124511719
+Total Node count: 22
+
+Beam Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [3, 0, 3, 2, 1, 2, 1, 0]
+Beam Size: 25
+Objective Function Evaluation: 1
+Time to complete search: 0.009996414184570312
+Total Node count: 44
+
+Beam Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [1, 2, 0, 3, 0, 1, 3, 2]
+Beam Size: 25
+Objective Function Evaluation: 2
+Time to complete search: 0.012995243072509766
+Total Node count: 54
+
+Beam Search with Neighbor Function: max, Number of Jobs: 9, Number of People: 4
+State: [1, 1, 0, 2, 0, 0, 0, 0, 0]
+Beam Size: 5
+Objective Function Evaluation: 19
+Time to complete search: 300.01026344299316
+Total Node count: 974436
+
+Beam Search with Neighbor Function: max, Number of Jobs: 9, Number of People: 4
+State: [0, 2, 1, 2, 0, 1, 3, 3, 0]
+Beam Size: 5
+Objective Function Evaluation: 2
+Time to complete search: 0.006997585296630859
+Total Node count: 26
+
+Beam Search with Neighbor Function: max, Number of Jobs: 9, Number of People: 4
+State: [3, 2, 1, 3, 1, 0, 0, 2, 0]
+Beam Size: 5
+Objective Function Evaluation: 5
+Time to complete search: 300.0106403827667
+Total Node count: 938399
+
+Beam Search with Neighbor Function: max, Number of Jobs: 9, Number of People: 4
+State: [3, 2, 1, 1, 2, 0, 0, 3, 1]
+Beam Size: 5
+Objective Function Evaluation: 3
+Time to complete search: 0.0039997100830078125
+Total Node count: 17
+
+
+Beam Search with Neighbor Function: max, Number of Jobs: 10, Number of People: 4
+State: [3, 1, 3, 2, 0, 3, 1, 3, 1, 0]
+Beam Size: 5
+Objective Function Evaluation: 6
+Time to complete search: 300.01692938804626
+Total Node count: 861681
+
+Beam Search with Neighbor Function: all_comb, Number of Jobs: 7, Number of People: 4
+State: [0, 2, 2, 2, 1, 3, 0]
+Beam Size: 5
+Objective Function Evaluation: 3
+Time to complete search: 301.6522660255432
+Total Node count: 1526
+
+Beam Search with Neighbor Function: all_comb, Number of Jobs: 7, Number of People: 4
+State: [3, 1, 1, 1, 2, 0, 0]
+Beam Size: 5
+Objective Function Evaluation: 3
+Time to complete search: 301.090106010437
+Total Node count: 1501
+
+Beam Search with Neighbor Function: all_comb, Number of Jobs: 7, Number of People: 4
+State: [0, 1, 3, 0, 2, 2, 3]
+Beam Size: 5
+Objective Function Evaluation: 4
+Time to complete search: 301.7026388645172
+Total Node count: 1491
+-----
+
+Beam Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [2, 3, 2, 0, 2, 1, 3, 2]
+Beam Size: 25
+Objective Function Evaluation: 2
+Time to complete search: 25020.08415699005
+Total Node count: 499957
+
+Beam Search with Neighbor Function: all_comb, Number of Jobs: 7, Number of People: 4
+State: [1, 2, 0, 1, 0, 2, 3]
+Beam Size: 5
+Objective Function Evaluation: 7
+Time to complete search: 24970.79311108589
+Total Node count: 391
+
+Beam Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [1, 3, 0, 2, 3, 1, 0, 2]
+Beam Size: 25
+Objective Function Evaluation: 0
+Time to complete search: 0.0009999275207519531
+Total Node count: 14
+
+Beam Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [1, 3, 0, 1, 2, 2, 0, 3]
+Beam Size: 25
+Objective Function Evaluation: 0
+Time to complete search: 0.003999233245849609
+Total Node count: 21
+
+Beam Search with Neighbor Function: max, Number of Jobs: 7, Number of People: 4
+State: [2, 1, 1, 3, 3, 0, 1]
+Beam Size: 5
+Objective Function Evaluation: 11
+Time to complete search: 300.007009267807
+Total Node count: 126407
+
+Beam Search with Neighbor Function: max, Number of Jobs: 7, Number of People: 4
+State: [0, 0, 3, 2, 3, 2, 1]
+Beam Size: 5
+Objective Function Evaluation: 2
+Time to complete search: 0.002998828887939453
+Total Node count: 16
+
+Beam Search with Neighbor Function: max, Number of Jobs: 7, Number of People: 4
+State: [2, 2, 1, 3, 0, 0, 3]
+Beam Size: 5
+Objective Function Evaluation: 2
+Time to complete search: 0.0049974918365478516
+Total Node count: 24
+
+Beam Search with Neighbor Function: all_comb, Number of Jobs: 7, Number of People: 4
+State: [2, 1, 2, 2, 3, 1, 1]
+Beam Size: 5
+Objective Function Evaluation: 12
+Time to complete search: 302.6881341934204
+Total Node count: 1451
+
+Beam Search with Neighbor Function: max, Number of Jobs: 7, Number of People: 4
+State: [3, 3, 0, 2, 3, 1, 2]
+Beam Size: 5
+Objective Function Evaluation: 5
+Time to complete search: 300.0047137737274
+Total Node count: 1185882
+
+Beam Search with Neighbor Function: all_comb, Number of Jobs: 7, Number of People: 4
+State: [3, 1, 3, 0, 3, 0, 2]
+Beam Size: 5
+Objective Function Evaluation: 10
+Time to complete search: 301.52336502075195
+Total Node count: 1391
+
+Beam Search with Neighbor Function: max, Number of Jobs: 7, Number of People: 4
+State: [0, 1, 3, 3, 0, 0, 2]
+Beam Size: 5
+Objective Function Evaluation: 5
+Time to complete search: 300.00664615631104
+Total Node count: 1373272
+
+Beam Search with Neighbor Function: all_comb, Number of Jobs: 7, Number of People: 4
+State: [3, 1, 1, 1, 1, 3, 2]
+Beam Size: 5
+Objective Function Evaluation: 13
+Time to complete search: 301.7050096988678
+Total Node count: 1551
+
+Beam Search with Neighbor Function: all_comb, Number of Jobs: 7, Number of People: 4
+State: [2, 3, 2, 0, 3, 0, 0]
+Beam Size: 5
+Objective Function Evaluation: 11
+Time to complete search: 301.9577269554138
+Total Node count: 1511
+
+Beam Search with Neighbor Function: all_comb, Number of Jobs: 7, Number of People: 4
+State: [3, 2, 3, 1, 0, 0, 0]
+Beam Size: 5
+Objective Function Evaluation: 9
+Time to complete search: 301.24479150772095
+Total Node count: 1496
+
+Beam Search with Neighbor Function: all_comb, Number of Jobs: 7, Number of People: 4
+State: [0, 1, 1, 0, 1, 0, 3]
+Beam Size: 5
+Objective Function Evaluation: 11
+Time to complete search: 301.6204192638397
+Total Node count: 1511
+
+Beam Search with Neighbor Function: all_comb, Number of Jobs: 7, Number of People: 4
+State: [2, 3, 2, 2, 3, 3, 0]
+Beam Size: 5
+Objective Function Evaluation: 10
+Time to complete search: 301.30148363113403
+Total Node count: 1486
+-------------------
+
+Beam Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [2, 1, 1, 1, 2, 2, 0, 0]
+Beam Size: 10
+Objective Function Evaluation: 9
+Time to complete search: 300.0058927536011
+Total Node count: 1236547
+
+Beam Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [3, 3, 1, 0, 1, 0, 1, 2]
+Beam Size: 10
+Objective Function Evaluation: 7
+Time to complete search: 300.0079023838043
+Total Node count: 1178581
+
+Beam Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [0, 2, 1, 3, 1, 2, 2, 3]
+Beam Size: 15
+Objective Function Evaluation: 9
+Time to complete search: 300.0079114437103
+Total Node count: 1233203
+
+Beam Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [1, 3, 3, 3, 1, 3, 1, 0]
+Beam Size: 15
+Objective Function Evaluation: 11
+Time to complete search: 300.0099000930786
+Total Node count: 1202248
+
+Beam Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [3, 1, 0, 3, 1, 1, 0, 0]
+Beam Size: 20
+Objective Function Evaluation: 9
+Time to complete search: 300.006875038147
+Total Node count: 1259358
+
+Beam Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [1, 3, 3, 2, 3, 0, 2, 1]
+Beam Size: 20
+Objective Function Evaluation: 4
+Time to complete search: 300.008891582489
+Total Node count: 1209959
+
+Beam Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4 
+State: [0, 1, 0, 2, 1, 3, 0, 3]
+Beam Size: 25 
+Objective Function Evaluation: 10 
+Time to complete search: 300.01041293144226 
+Total Node count: 1169569 

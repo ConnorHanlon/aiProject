@@ -1,0 +1,434 @@
+vvvvvvvvvvvvvvvvv CUTOFF TIME 5s BELOW vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+
+SA Search with Neighbor Function: max, Number of Jobs: 6, Number of People: 4
+State: [0, 2, 1, 1, 2, 3]
+Objective Function Evaluation: 2
+Time to complete search: 5.015376806259155
+Total Node count (Total iterations): 5476
+
+SA Search with Neighbor Function: max, Number of Jobs: 6, Number of People: 4
+State: [1, 2, 2, 0, 3, 2]
+Objective Function Evaluation: 2
+Time to complete search: 5.002396821975708
+Total Node count (Total iterations): 6670
+
+SA Search with Neighbor Function: max, Number of Jobs: 6, Number of People: 4
+State: [0, 1, 3, 1, 1, 2]
+Objective Function Evaluation: 1
+Time to complete search: 5.002381801605225
+Total Node count (Total iterations): 4752
+
+SA Search with Neighbor Function: max, Number of Jobs: 6, Number of People: 4
+State: [1, 3, 0, 2, 2, 1]
+Objective Function Evaluation: 2
+Time to complete search: 5.001380681991577
+Total Node count (Total iterations): 4976
+
+SA Search with Neighbor Function: max, Number of Jobs: 6, Number of People: 4
+State: [2, 1, 0, 0, 2, 3]
+Objective Function Evaluation: 1
+Time to complete search: 5.002380132675171
+Total Node count (Total iterations): 5972
+
+SA Search with Neighbor Function: max, Number of Jobs: 7, Number of People: 4
+State: [1, 2, 0, 2, 3, 3, 0]
+Objective Function Evaluation: 2
+Time to complete search: 5.0073792934417725
+Total Node count (Total iterations): 5138
+
+SA Search with Neighbor Function: max, Number of Jobs: 7, Number of People: 4
+State: [1, 2, 0, 1, 3, 3, 2]
+Objective Function Evaluation: 2
+Time to complete search: 5.0073792934417725
+Total Node count (Total iterations): 5045
+
+SA Search with Neighbor Function: max, Number of Jobs: 7, Number of People: 4
+State: [1, 1, 2, 3, 3, 0, 0]
+Objective Function Evaluation: 1
+Time to complete search: 5.0163750648498535
+Total Node count (Total iterations): 4272
+
+SA Search with Neighbor Function: max, Number of Jobs: 7, Number of People: 4
+State: [1, 3, 2, 0, 3, 2, 0]
+Objective Function Evaluation: 1
+Time to complete search: 5.00536322593689
+Total Node count (Total iterations): 4542
+
+SA Search with Neighbor Function: max, Number of Jobs: 7, Number of People: 4
+State: [0, 2, 1, 0, 0, 3, 3]
+Objective Function Evaluation: 2
+Time to complete search: 5.007391691207886
+Total Node count (Total iterations): 4689
+
+SA Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [1, 0, 1, 0, 2, 2, 3, 3]
+Objective Function Evaluation: 2
+Time to complete search: 5.007378816604614
+Total Node count (Total iterations): 3782
+
+SA Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [2, 0, 3, 0, 3, 2, 1, 1]
+Objective Function Evaluation: 2
+Time to complete search: 5.009395599365234
+Total Node count (Total iterations): 4117
+
+SA Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [1, 3, 2, 3, 2, 0, 0, 1]
+Objective Function Evaluation: 2
+Time to complete search: 5.008378744125366
+Total Node count (Total iterations): 4003
+
+SA Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [1, 2, 3, 2, 3, 0, 1, 0]
+Objective Function Evaluation: 2
+Time to complete search: 5.00937819480896
+Total Node count (Total iterations): 4064
+
+SA Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [0, 1, 0, 2, 3, 1, 3, 1]
+Objective Function Evaluation: 4
+Time to complete search: 5.008378744125366
+Total Node count (Total iterations): 4708
+
+SA Search with Neighbor Function: max, Number of Jobs: 9, Number of People: 4
+State: [3, 2, 3, 2, 1, 1, 0, 0, 2]
+Objective Function Evaluation: 1
+Time to complete search: 5.008379936218262
+Total Node count (Total iterations): 3794
+
+SA Search with Neighbor Function: max, Number of Jobs: 9, Number of People: 4
+State: [0, 1, 1, 0, 2, 3, 3, 2, 3]
+Objective Function Evaluation: 1
+Time to complete search: 5.007395505905151
+Total Node count (Total iterations): 3934
+
+SA Search with Neighbor Function: max, Number of Jobs: 9, Number of People: 4
+State: [2, 1, 1, 3, 0, 3, 3, 0, 2]
+Objective Function Evaluation: 1
+Time to complete search: 5.008379220962524
+Total Node count (Total iterations): 3790
+
+SA Search with Neighbor Function: max, Number of Jobs: 9, Number of People: 4
+State: [2, 1, 0, 3, 2, 1, 0, 2, 3]
+Objective Function Evaluation: 1
+Time to complete search: 5.009378433227539
+Total Node count (Total iterations): 2960
+
+SA Search with Neighbor Function: max, Number of Jobs: 9, Number of People: 4
+State: [2, 3, 1, 1, 0, 3, 0, 2, 0]
+Objective Function Evaluation: 1
+Time to complete search: 5.009377717971802
+Total Node count (Total iterations): 3205
+
+SA Search with Neighbor Function: max, Number of Jobs: 10, Number of People: 4
+State: [1, 2, 2, 0, 0, 1, 3, 0, 3, 0]
+Objective Function Evaluation: 1
+Time to complete search: 5.008378744125366
+Total Node count (Total iterations): 3171
+
+SA Search with Neighbor Function: max, Number of Jobs: 10, Number of People: 4
+State: [1, 0, 2, 0, 1, 0, 3, 2, 3, 3]
+Objective Function Evaluation: 1
+Time to complete search: 5.004379987716675
+Total Node count (Total iterations): 3088
+
+SA Search with Neighbor Function: max, Number of Jobs: 10, Number of People: 4
+State: [2, 0, 1, 3, 3, 2, 0, 1, 1, 2]
+Objective Function Evaluation: 1
+Time to complete search: 5.005379915237427
+Total Node count (Total iterations): 2954
+
+SA Search with Neighbor Function: max, Number of Jobs: 10, Number of People: 4
+State: [2, 3, 3, 1, 0, 0, 2, 0, 2, 1]
+Objective Function Evaluation: 1
+Time to complete search: 5.008378028869629
+Total Node count (Total iterations): 3468
+
+SA Search with Neighbor Function: max, Number of Jobs: 10, Number of People: 4
+State: [0, 3, 1, 0, 2, 0, 1, 2, 2, 0]
+Objective Function Evaluation: 4
+Time to complete search: 5.008379697799683
+Total Node count (Total iterations): 3607
+
+SA Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [3, 0, 1, 3, 3, 1, 2, 0]
+Objective Function Evaluation: 1
+Time to complete search: 5.009396076202393
+Total Node count (Total iterations): 4276
+
+SA Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [0, 0, 3, 3, 1, 1, 2, 3]
+Objective Function Evaluation: 1
+Time to complete search: 5.0083818435668945
+Total Node count (Total iterations): 4236
+
+SA Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [0, 0, 0, 2, 3, 2, 1, 3]
+Objective Function Evaluation: 3
+Time to complete search: 5.009378433227539
+Total Node count (Total iterations): 4259
+
+SA Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [1, 0, 2, 3, 3, 2, 0, 1]
+Objective Function Evaluation: 2
+Time to complete search: 5.008378267288208
+Total Node count (Total iterations): 3785
+
+SA Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [2, 0, 1, 0, 2, 3, 1, 3]
+Objective Function Evaluation: 3
+Time to complete search: 5.0063958168029785
+Total Node count (Total iterations): 4021
+
+SA Search with Neighbor Function: max, Number of Jobs: 7, Number of People: 4
+State: [3, 2, 1, 2, 3, 0, 3]
+Objective Function Evaluation: 2
+Time to complete search: 5.008379697799683
+Total Node count (Total iterations): 5244
+
+SA Search with Neighbor Function: max, Number of Jobs: 7, Number of People: 4
+State: [2, 1, 3, 0, 3, 1, 0]
+Objective Function Evaluation: 1
+Time to complete search: 5.008378505706787
+Total Node count (Total iterations): 4513
+
+SA Search with Neighbor Function: max, Number of Jobs: 7, Number of People: 4
+State: [1, 3, 2, 0, 0, 3, 1]
+Objective Function Evaluation: 2
+Time to complete search: 5.00837254524231
+Total Node count (Total iterations): 5130
+
+SA Search with Neighbor Function: max, Number of Jobs: 7, Number of People: 4
+State: [3, 3, 1, 0, 3, 2, 2]
+Objective Function Evaluation: 2
+Time to complete search: 5.00741171836853
+Total Node count (Total iterations): 4979
+
+SA Search with Neighbor Function: max, Number of Jobs: 7, Number of People: 4
+State: [1, 0, 2, 0, 2, 3, 3]
+Objective Function Evaluation: 2
+Time to complete search: 5.00937819480896
+Total Node count (Total iterations): 5221
+
+SA Search with Neighbor Function: all_comb, Number of Jobs: 7, Number of People: 4
+State: [0, 1, 2, 1, 0, 3, 3]
+Objective Function Evaluation: 2
+Time to complete search: 5.801121473312378
+Total Node count (Total iterations): 7
+
+SA Search with Neighbor Function: all_comb, Number of Jobs: 7, Number of People: 4
+State: [0, 1, 0, 2, 3, 1, 3]
+Objective Function Evaluation: 1
+Time to complete search: 5.978049278259277
+Total Node count (Total iterations): 7
+
+SA Search with Neighbor Function: all_comb, Number of Jobs: 7, Number of People: 4
+State: [0, 0, 1, 2, 2, 3, 3]
+Objective Function Evaluation: 1
+Time to complete search: 5.875081539154053
+Total Node count (Total iterations): 7
+
+SA Search with Neighbor Function: all_comb, Number of Jobs: 7, Number of People: 4
+State: [0, 1, 2, 1, 2, 3, 3]
+Objective Function Evaluation: 1
+Time to complete search: 5.051364183425903
+Total Node count (Total iterations): 6
+
+SA Search with Neighbor Function: all_comb, Number of Jobs: 7, Number of People: 4
+State: [0, 0, 1, 1, 2, 3, 2]
+Objective Function Evaluation: 2
+Time to complete search: 5.019374370574951
+Total Node count (Total iterations): 6
+
+
+^^^^^^^^^^^^^^^^^ CUTOFF TIME 5s ABOVE  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+vvvvvvvvvvvvvvvvv CUTOFF TIME 300s BELOW vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+
+
+SA Search with Neighbor Function: max, Number of Jobs: 6, Number of People: 4
+State: [0, 3, 1, 1, 2, 0]
+Objective Function Evaluation: 1
+Time to complete search: 60.03456783294678
+Total Node count (Total iterations): 71901
+
+SA Search with Neighbor Function: max, Number of Jobs: 6, Number of People: 4
+State: [1, 2, 3, 2, 0, 3]
+Objective Function Evaluation: 2
+Time to complete search: 47.44365978240967
+Total Node count (Total iterations): 71901
+
+SA Search with Neighbor Function: max, Number of Jobs: 6, Number of People: 4
+State: [1, 0, 2, 3, 3, 2]
+Objective Function Evaluation: 1
+Time to complete search: 48.6172616481781
+Total Node count (Total iterations): 71901
+
+SA Search with Neighbor Function: max, Number of Jobs: 6, Number of People: 4
+State: [2, 0, 3, 1, 2, 2]
+Objective Function Evaluation: 1
+Time to complete search: 50.087785482406616
+Total Node count (Total iterations): 71901
+
+SA Search with Neighbor Function: max, Number of Jobs: 7, Number of People: 4
+State: [1, 3, 3, 2, 3, 0, 1]
+Objective Function Evaluation: 1
+Time to complete search: 65.44481492042542
+Total Node count (Total iterations): 71901
+
+SA Search with Neighbor Function: max, Number of Jobs: 7, Number of People: 4
+State: [1, 0, 3, 3, 2, 2, 2]
+Objective Function Evaluation: 4
+Time to complete search: 0.0019989013671875
+Total Node count (Total iterations): 3
+
+SA Search with Neighbor Function: max, Number of Jobs: 7, Number of People: 4
+State: [0, 0, 2, 2, 2, 3, 1]
+Objective Function Evaluation: 1
+Time to complete search: 80.92980432510376
+Total Node count (Total iterations): 71901
+
+SA Search with Neighbor Function: max, Number of Jobs: 7, Number of People: 4
+State: [2, 1, 0, 3, 3, 1, 3]
+Objective Function Evaluation: 1
+Time to complete search: 53.74758505821228
+Total Node count (Total iterations): 71901
+
+SA Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [3, 0, 3, 1, 1, 2, 1, 2]
+Objective Function Evaluation: 2
+Time to complete search: 73.0973219871521
+Total Node count (Total iterations): 71901
+
+SA Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [3, 3, 0, 0, 3, 2, 1, 1]
+Objective Function Evaluation: 3
+Time to complete search: 78.76550507545471
+Total Node count (Total iterations): 71901
+
+SA Search with Neighbor Function: max, Number of Jobs: 9, Number of People: 4
+State: [2, 0, 2, 3, 1, 3, 2, 1, 0]
+Objective Function Evaluation: 3
+Time to complete search: 89.68696784973145
+Total Node count (Total iterations): 71901
+
+SA Search with Neighbor Function: max, Number of Jobs: 9, Number of People: 4
+State: [3, 0, 0, 1, 1, 1, 2, 3, 2]
+Objective Function Evaluation: 1
+Time to complete search: 92.53504943847656
+Total Node count (Total iterations): 71901
+
+SA Search with Neighbor Function: max, Number of Jobs: 9, Number of People: 4
+State: [0, 1, 2, 2, 3, 0, 1, 3, 3]
+Objective Function Evaluation: 1
+Time to complete search: 91.4543969631195
+Total Node count (Total iterations): 71901
+
+SA Search with Neighbor Function: max, Number of Jobs: 9, Number of People: 4
+State: [2, 2, 1, 1, 3, 3, 0, 1, 3]
+Objective Function Evaluation: 5
+Time to complete search: 79.99861645698547
+Total Node count (Total iterations): 71901
+
+SA Search with Neighbor Function: max, Number of Jobs: 10, Number of People: 4
+State: [2, 1, 3, 0, 2, 3, 0, 1, 3, 1]
+Objective Function Evaluation: 1
+Time to complete search: 112.75250697135925
+Total Node count (Total iterations): 71901
+
+SA Search with Neighbor Function: max, Number of Jobs: 10, Number of People: 4
+State: [1, 3, 0, 2, 3, 2, 1, 2, 0, 0]
+Objective Function Evaluation: 2
+Time to complete search: 103.81013822555542
+Total Node count (Total iterations): 71901
+
+SA Search with Neighbor Function: max, Number of Jobs: 10, Number of People: 4
+State: [1, 1, 2, 2, 3, 3, 0, 2, 0, 0]
+Objective Function Evaluation: 1
+Time to complete search: 108.2799506187439
+Total Node count (Total iterations): 71901
+
+SA Search with Neighbor Function: max, Number of Jobs: 10, Number of People: 4
+State: [2, 2, 0, 0, 0, 1, 3, 3, 1, 2]
+Objective Function Evaluation: 8
+Time to complete search: 0.002000570297241211
+Total Node count (Total iterations): 2
+
+SA Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [3, 1, 2, 3, 3, 1, 0, 0]
+Objective Function Evaluation: 2
+Time to complete search: 76.91910290718079
+Total Node count (Total iterations): 71901
+
+SA Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [0, 0, 2, 0, 1, 3, 3, 1]
+Objective Function Evaluation: 3
+Time to complete search: 79.89314150810242
+Total Node count (Total iterations): 71901
+
+SA Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [0, 1, 2, 0, 0, 2, 1, 3]
+Objective Function Evaluation: 2
+Time to complete search: 80.87881302833557
+Total Node count (Total iterations): 71901
+
+SA Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [1, 3, 0, 1, 1, 3, 2, 2]
+Objective Function Evaluation: 2
+Time to complete search: 79.20236349105835
+Total Node count (Total iterations): 71901
+
+SA Search with Neighbor Function: max, Number of Jobs: 8, Number of People: 4
+State: [2, 0, 1, 2, 2, 0, 3, 3]
+Objective Function Evaluation: 2
+Time to complete search: 81.83052849769592
+Total Node count (Total iterations): 71901
+
+SA Search with Neighbor Function: max, Number of Jobs: 7, Number of People: 4
+State: [0, 2, 1, 3, 3, 2, 1]
+Objective Function Evaluation: 1
+Time to complete search: 64.25719952583313
+Total Node count (Total iterations): 71901
+
+SA Search with Neighbor Function: max, Number of Jobs: 7, Number of People: 4
+State: [0, 3, 3, 0, 1, 2, 1]
+Objective Function Evaluation: 1
+Time to complete search: 78.58806300163269
+Total Node count (Total iterations): 71901
+
+SA Search with Neighbor Function: max, Number of Jobs: 7, Number of People: 4
+State: [3, 2, 1, 2, 1, 2, 0]
+Objective Function Evaluation: 2
+Time to complete search: 0.0029993057250976562
+Total Node count (Total iterations): 4
+
+SA Search with Neighbor Function: max, Number of Jobs: 7, Number of People: 4
+State: [0, 1, 0, 1, 0, 2, 3]
+Objective Function Evaluation: 1
+Time to complete search: 75.43558096885681
+Total Node count (Total iterations): 71901
+
+SA Search with Neighbor Function: all_comb, Number of Jobs: 7, Number of People: 4
+State: [0, 0, 1, 1, 0, 2, 3]
+Objective Function Evaluation: 1
+Time to complete search: 300.84062099456787
+Total Node count (Total iterations): 315
+
+SA Search with Neighbor Function: all_comb, Number of Jobs: 7, Number of People: 4
+State: [2, 1, 2, 0, 3, 1, 0]
+Objective Function Evaluation: 8
+Time to complete search: 1.0026755332946777
+Total Node count (Total iterations): 2
+
+SA Search with Neighbor Function: all_comb, Number of Jobs: 7, Number of People: 4
+State: [0, 1, 2, 1, 3, 3, 1]
+Objective Function Evaluation: 1
+Time to complete search: 300.37077283859253
+Total Node count (Total iterations): 309
+
+SA Search with Neighbor Function: all_comb, Number of Jobs: 7, Number of People: 4
+State: [0, 0, 1, 1, 0, 2, 3]
+Objective Function Evaluation: 1
+Time to complete search: 300.7586486339569
+Total Node count (Total iterations): 309
