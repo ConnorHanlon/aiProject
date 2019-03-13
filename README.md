@@ -1,5 +1,10 @@
 # Beam Search and Simulated Annealing as Applied to Job scheduling
 -----
+## Research Paper and Results of Comparison
+
+The paper is located in the paper directory, and is entitled "FinalPaper.pdf".
+
+-----
 ## File List and Descriptions
 * #### algorithm.py
 
